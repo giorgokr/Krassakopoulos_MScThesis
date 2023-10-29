@@ -1,0 +1,3 @@
+v6 offers more operations but generates more gas fees for the transactions to ba bale to execute.
+
+v9 is a lighter version of v6, causing less gas fees.
